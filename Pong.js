@@ -214,10 +214,3 @@ window.addEventListener('keydown', function(event) { Key.onKeydown(event); }, fa
 
 setInterval(loop, 3.333333);
 setInterval(logic, 3.33333);
-
-
-//DEBUG STUFF
-function debugDisplay() {
-}
-
-setInterval(debugDisplay(), 3.33333);
